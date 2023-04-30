@@ -7,8 +7,7 @@ Like we are filtering for the list of dependent resources and non-dependent reso
 
 ### Steps
 
-* Change the permission of the file `chmod a+x <file-name>.sh`
-* Go to the terminal and run the command `./<file-name>.sh` or run the script from any ID like Visual Code or IntelliJ.
+* Run the powershell script from any IDE or using `./<script-name>.ps1` in terminal.
 
 ---
 
